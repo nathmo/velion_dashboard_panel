@@ -1,4 +1,4 @@
-26779693909302244
+26795594565914684
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106379,7 +106379,21 @@ defrost
 0
 0
 picto
+defrost_silk
+
+
+0
+0
+0
+picto
 fog
+
+
+0
+0
+0
+picto
+fog_silk
 
 
 0
@@ -106393,7 +106407,21 @@ handwarmer
 0
 0
 picto
+handwarmer_silk
+
+
+0
+0
+0
+picto
 light
+
+
+0
+0
+0
+picto
+light_silk
 
 
 0
@@ -106407,7 +106435,21 @@ mapping
 0
 0
 picto
+mapping_silk
+
+
+0
+0
+0
+picto
 seatwarmer
+
+
+0
+0
+0
+picto
+seatwarmer_silk
 
 
 0
@@ -106421,6 +106463,13 @@ tempomat
 0
 0
 picto
+tempomat_silk
+
+
+0
+0
+0
+picto
 trunk$
 
 
@@ -106428,7 +106477,21 @@ trunk$
 0
 0
 picto
+trunk_silk
+
+
+0
+0
+0
+picto
 warning
+
+
+0
+0
+0
+picto
+warning_silk
 
 
 0
